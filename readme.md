@@ -18,7 +18,7 @@ This project, named **GeoEduca**, aims to analyze and predict cutoff scores for 
 - **Integration with Institutional Data**: Incorporate external datasets with geographic and institutional details (e.g., addresses, neighborhood characteristics) to enhance analysis.
 
 ## Dataset Description
-The dataset for this project is sourced from **Brazil’s Ministry of Education (MEC)** and consists of the following:
+The [dataset](https://brasil.io/dataset/cursos-prouni/cursos/) for this project is sourced from **Brazil’s Ministry of Education (MEC)** and consists of the following:
 
 ### Primary Dataset: PROUNI Scholarships (2018)
 
